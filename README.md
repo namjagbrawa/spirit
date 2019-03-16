@@ -2,4 +2,4 @@
 
 ### 想增加一个医生的角色，用于为双方补充血量，减伤killed的可能
 
-原游戏见：https://github.com/lfkdsk/FighterTheater
+### 原游戏见：https://github.com/lfkdsk/FighterTheater
